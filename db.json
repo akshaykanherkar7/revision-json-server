@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "category": "family",
+      "category": "Family",
       "image_url": "https://thumbs.dreamstime.com/b/hotel-room-25969958.jpg",
       "type_of_room": "AC",
       "bed_type": "single",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "category": "delux",
+      "category": "Delux",
       "image_url": "https://thumbs.dreamstime.com/b/hotel-room-25969958.jpg",
       "type_of_room": "Non AC",
       "bed_type": "double",
