@@ -1,51 +1,26 @@
 {
-  "cars": [
+  "data": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "category": "family",
+      "image_url": "https://thumbs.dreamstime.com/b/hotel-room-25969958.jpg",
+      "type_of_room": "AC",
+      "bed_type": "single",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 5000,
+      "booked": false
     },
     {
       "id": 2,
-      "brand": "Tata",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    }
-  ],
-  "wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
-    },
-    {
-      "id": 1,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
+      "category": "delux",
+      "image_url": "https://thumbs.dreamstime.com/b/hotel-room-25969958.jpg",
+      "type_of_room": "Non AC",
+      "bed_type": "double",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 5000,
+      "booked": false
     }
   ]
 }
